@@ -1,0 +1,28 @@
+{
+  "name": "hyperz-security-bot",
+  "version": "6.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hyperz"
+  ],
+  "author": "Hyperz#0001",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "carden": "^4.0.0",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "hyperz-nodelogger": "^3.7.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "mysql-import": "^5.0.21"
+  }
+}
